@@ -1,0 +1,1 @@
+This GUI was made by using xampp apache server and mysql workbench. Please make necessary changes to the dbh.inc.php in the includes folder when trying to run the GUI. Also for viewing the GUI copy the folder 'minor project' inside the GUI folder wherever necessary.
